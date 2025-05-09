@@ -3,7 +3,7 @@
 
 In this guide you will:
 
-1. Scaffold a React+TS project with Vite  
+1. Create a React+TS project with Vite  
 2. Install and configure React Strict DOM (RSD)  
 3. Implement pages, components, and subcomponents using RSD’s `html` and `css` APIs  
 4. Use `useState` for local state and `useEffect` for lifecycle side-effects  

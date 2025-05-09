@@ -5,6 +5,7 @@ This section covers the essential concepts of React Native development.
 ## Topics
 
 1. [React Native Basics](./01-basics/01-basics.md)
+   - Installation and Setups
    - Core components
    - Styling
    - Layout with Flexbox
