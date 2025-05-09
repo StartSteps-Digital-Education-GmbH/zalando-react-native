@@ -1,12 +1,19 @@
 # React Native Learning Program
 
-Welcome to the React Native Learning Program! This curriculum is designed to help engineers transition into React Native development, with a focus on Zalando's specific implementation and requirements.
+Welcome to the **StartSteps-Zalando React Native Learning Program**!
+This learning journey is designed to upskill mobile engineers transitioning to **React Native**, with a focus on **Zalando's internal frameworks, best practices, and design principles**.
 
-## Program Overview
+---
 
-This 4-week intensive program covers everything from JavaScript/TypeScript fundamentals to advanced React Native concepts and practical implementation. The curriculum is structured to provide both theoretical knowledge and hands-on practice.
+## 📚 Program Overview
 
-## Weekly Topics
+This 4-week intensive program combines foundational theory with hands-on practical work to prepare you for building scalable and performant mobile apps using React Native. By the end, you'll be equipped to contribute to production-level codebases within Zalando’s ecosystem.
+
+You’ll begin by reinforcing web and JavaScript/TypeScript fundamentals, followed by a deep dive into React, React Native, and Zalando’s internal tools—culminating in a capstone project that brings it all together.
+
+---
+
+## 🗓 Weekly Structure
 
 ### Week 1: Prerequisites – HTML & CSS, JavaScript, TypeScript & React Fundamentals
 - [Introduction to HTML and CSS](./01-HTML-and-CSS/01_introduction.md)
@@ -25,14 +32,15 @@ This 4-week intensive program covers everything from JavaScript/TypeScript funda
 ### Week 4: Capstone Project Completion & Hands-on Work
 - [Capstone Project](./07-capstone-project/README.md)
 
-## Getting Started
 
-Each week's content is organized into folders containing detailed theory and practice materials. Navigate to the specific week's folder to access the learning materials.
+## 🛠 Environment Setup
 
-## Development Environment Setup
+You'll use the **React Native CLI** throughout the program. Setup instructions and troubleshooting guides are included in Week 2 materials.
 
-The program uses React Native CLI for development. Detailed setup instructions will be provided in the Week 2 materials.
+---
 
-## Note
+## 📝 Notes
 
-This curriculum is specifically designed for Zalando's internal use and incorporates their internal frameworks and technologies.
+> This curriculum is tailored for **Zalando’s internal training** and integrates proprietary tools, design systems, and development workflows specific to thier teams.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Zalando_201x_logo.svg" alt="Zalando Logo" width="30%"/>
