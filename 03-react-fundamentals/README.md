@@ -11,16 +11,18 @@ This section covers the essential React concepts needed for React Native develop
    - Props
    - State
 
-2. [React Hooks](./03-React-Hooks.md)
+3. [React Strict DOM](./03.React_Strict_DOM.md)
+
+4. [Styled Components](./04-Styled-Components.md)
+
+5. [React Hooks](./05-React-Hooks.md)
    - useState
    - useEffect
 
-3. [React Strict DOM](./04.React_Strict_DOM.md)
-
 ## Practice Sessions
 
-- [Todo App](./practice-session/01_Todo_list.md)
-- [Movie App](./practice-session/02_Movie_app.md)
+- [Mood Trucker](./practice-session//01_Mood_tracker.md)
+- [Todo List](./practice-session/03_Todo_list.md)
 
 ## Learning Objectives
 

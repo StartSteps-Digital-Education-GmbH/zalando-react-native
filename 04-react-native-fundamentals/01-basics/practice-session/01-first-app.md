@@ -4,30 +4,7 @@ This practice session will guide you through building a simple React Native app.
 
 ## Exercise 1: Setup
 
-1. Create a new React Native project:
-```bash
-npx react-native init MyFirstApp
-cd MyFirstApp
-```
-
-2. Install React Strict DOM:
-```bash
-npm install @react-strict-dom/core
-```
-
-3. Start the development server:
-```bash
-npx react-native start
-```
-
-4. Run the app on your device/emulator:
-```bash
-# For Android
-npx react-native run-android
-
-# For iOS
-npx react-native run-ios
-```
+1. Create a new React Native project, and run it
 
 ## Exercise 2: Basic Layout
 

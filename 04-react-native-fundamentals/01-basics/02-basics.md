@@ -86,40 +86,6 @@ Common Flexbox properties:
 - `alignItems`: Cross axis alignment
 - `alignSelf`: Individual item alignment
 
-## React Strict DOM
-
-React Strict DOM is Zalando's preferred styling approach:
-
-```jsx
-import { css } from '@react-strict-dom/core';
-
-const styles = css`
-  .container {
-    display: flex;
-    flex-direction: column;
-    padding: 20px;
-  }
-  .text {
-    color: #333;
-    font-size: 16px;
-  }
-`;
-
-function MyComponent() {
-  return (
-    <div className={styles.container}>
-      <p className={styles.text}>Hello, React Strict DOM!</p>
-    </div>
-  );
-}
-```
-
-Benefits of React Strict DOM:
-- Consistent styling across platforms
-- Better type safety
-- Improved performance
-- Easier maintenance
-
 ## Handling User Input
 
 ```jsx
