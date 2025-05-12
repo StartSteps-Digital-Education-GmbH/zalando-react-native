@@ -16,8 +16,8 @@ You’ll begin by reinforcing web and JavaScript/TypeScript fundamentals, follow
 ## 🗓 Weekly Structure
 
 ### Week 1: Prerequisites – HTML & CSS, JavaScript, TypeScript & React Fundamentals
-- [Introduction to HTML and CSS](./01-HTML-and-CSS/01_introduction.md)
-- [CSS FlexBox](./01-HTML-and-CSS/02_flexbox.md)
+- [Introduction to HTML and CSS](./01-html-and-css/01_introduction.md)
+- [CSS FlexBox](./01-html-and-css/02_flexbox.md)
 - [JavaScript & TypeScript Fundamentals](./02-javascript-typescript/README.md)
 - [React Fundamentals](./03-react-fundamentals/README.md)
 
