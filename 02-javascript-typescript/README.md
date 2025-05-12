@@ -7,7 +7,7 @@ This section covers the essential JavaScript and TypeScript concepts needed for 
 1. Modern JavaScript (ES6+)
    - [Introduction to JavaScript](./01-modern-javascript/01-modern-javascript.md)
    - [Coding Problems](./01-modern-javascript/02-coding-problems.md)
-   - [ES6 Features](./01-modern-javascript/03-ES6.md)
+   - [ES6 Features](./01-modern-javascript/03-es6.md)
 
 2. [TypeScript Basics](./02-typescript-basics/01-typescript-basics.md)
    - Type annotations
@@ -19,8 +19,8 @@ This section covers the essential JavaScript and TypeScript concepts needed for 
 
 - [JavaScript Exercises](./01-modern-javascript/practice-session/01-javascript-exercises.md)
 - [TypeScript Conversion](./02-typescript-basics/practice-session/01-typescript-conversion.md)
-- [Javascript & Typescript Coding Problems](./JS_TS_Coding_Problems.md)
-- [JavaScript & TypeScript Coding Problems 2](./JS_TS_Coding_Problems_2.md)
+- [Javascript & Typescript Coding Problems](./js_ts_coding_problems.md)
+- [JavaScript & TypeScript Coding Problems 2](./js_ts_coding_problems_2.md)
 
 ## Learning Objectives
 

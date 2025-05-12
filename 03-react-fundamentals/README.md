@@ -4,25 +4,25 @@ This section covers the essential React concepts needed for React Native develop
 
 ## Topics
 
-1. [Introduction to React](./01-Introduction-to-React.md)
-   - [React Concepts](./02-React-Concepts.md)
+1. [Introduction to React](./01-introduction-to-react.md)
+   - [React Concepts](./02-react-concepts.md)
    - JSX
    - Components
    - Props
    - State
 
-3. [React Strict DOM](./03.React_Strict_DOM.md)
+3. [React Strict DOM](./03.react_strict_dom.md)
 
-4. [Styled Components](./04-Styled-Components.md)
+4. [Styled Components](./04-styled-components.md)
 
-5. [React Hooks](./05-React-Hooks.md)
+5. [React Hooks](./05-react-hooks.md)
    - useState
    - useEffect
 
 ## Practice Sessions
 
-- [Mood Trucker](./practice-session//01_Mood_tracker.md)
-- [Todo List](./practice-session/03_Todo_list.md)
+- [Mood Trucker](./practice-session//01_mood_tracker.md)
+- [Todo List](./practice-session/03_todo_list.md)
 
 ## Learning Objectives
 
