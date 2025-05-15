@@ -1,4 +1,4 @@
-# Lesson 5 — StyleX (stylexjs) Guide 🧩
+# Lesson 4 — StyleX (stylexjs) Guide 🧩
 
 > **Audience:** Engineers in the Zalando React Native Learning Program
 
