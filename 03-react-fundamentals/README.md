@@ -11,9 +11,9 @@ This section covers the essential React concepts needed for React Native develop
    - Props
    - State
 
-3. [React Strict DOM](./03.react_strict_dom.md)
+3. [React Strict DOM](./03_react_strict_dom.md)
 
-4. [Styled Components](./04-styled-components.md)
+4. [Stylex](./04_stylex-guide.md)
 
 5. [React Hooks](./05-react-hooks.md)
    - useState
