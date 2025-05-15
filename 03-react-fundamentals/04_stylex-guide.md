@@ -1,7 +1,9 @@
-# 🧩 StyleX (stylexjs) Guide
+# Lesson 5 — StyleX (stylexjs) Guide 🧩
 
 > **Audience:** Engineers in the Zalando React Native Learning Program
+
 > **Prerequisites:** React & JSX basics, CSS/styled-components familiarity
+
 > **Goal:** Learn how to use `stylex` for scalable, performant, and type-safe styles in Zalando apps.
 
 ---
@@ -79,7 +81,7 @@ const styles = stylex.create({
 html.div(stylex.props(styles.box), 'Content here')
 ```
 
-> 🧠 You must use `stylex.props()` — `style={{ ... }}` is **not supported**.
+> 🧠 You should use `stylex.props()` — if `style={{ ... }}` was **not supported**.
 
 ---
 
@@ -154,7 +156,6 @@ These are available via internal libraries and will be introduced later in the c
 
 | ✅ Do                     | 🚫 Avoid                    |
 | ------------------------ | --------------------------- |
-| Use `stylex.props()`     | Avoid `style={{}}`          |
 | Use `html.div` etc.      | Don't use raw `div`/`span`  |
 | Use pre-defined variants | Avoid inline dynamic values |
 
