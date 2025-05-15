@@ -21,7 +21,7 @@ This section covers the essential React concepts needed for React Native develop
 
 ## Practice Sessions
 
-- [Mood Trucker](./practice-session//01_mood_tracker.md)
+- [Mood Trucker](./practice-session//02_mood_tracker.md)
 - [Todo List](./practice-session/03_todo_list.md)
 
 ## Learning Objectives
