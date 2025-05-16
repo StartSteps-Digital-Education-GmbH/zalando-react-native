@@ -80,3 +80,9 @@ Build a simple **Mood Tracker** where users can select their current mood (Happy
 *   **Props with Explicit Types:** Ensuring all components have clearly defined prop types using TypeScript interfaces.
 *   **State Management with `useState`:** Tracking `currentMood` and `moodHistory` effectively.
 *   **Side Effects with `useEffect`:** Simulating asynchronous operations and understanding dependency arrays and cleanup functions.
+
+---
+
+### 🖥️ Example UI:
+![Mood Tracker UI](./mood.jpg)
+

@@ -8,6 +8,9 @@ In this guide you will:
 3. Implement pages, components, and subcomponents using RSD’s `html` and `css` APIs  
 4. Use `useState` for local state and `useEffect` for lifecycle side-effects  
 5. Persist todos via `localStorage`
+6. 🖥️ Example UI:
+![Todo UI](./todo.jpg)
+
 
 ---
 
